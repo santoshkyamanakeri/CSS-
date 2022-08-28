@@ -1,0 +1,23 @@
+body
+{
+    background-color: aqua;
+}
+h1
+{
+    color: red;
+    border-color: blue;
+    border-style: dotted;
+    border-width: 10px;
+    outline-color: chartreuse;
+    outline-style: groove;
+    outline-width: 15px;
+    outline-offset: 5px;
+    padding-left: 550px;
+    padding-right: 450px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
